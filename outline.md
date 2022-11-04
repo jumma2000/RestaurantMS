@@ -1,0 +1,12 @@
+Restaurent project
+------------------
+               -users
+               -currency
+               -units
+               -category-type
+               -category
+               -customer
+               -box
+               -stores
+               -purchases
+               -sales
